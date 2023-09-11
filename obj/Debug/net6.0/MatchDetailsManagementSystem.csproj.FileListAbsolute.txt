@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\refint\MatchDetailsManagementSystem.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\MatchDetailsManagementSystem\obj\Debug\net6.0\ref\MatchDetailsManagementSystem.dll
